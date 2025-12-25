@@ -416,7 +416,7 @@ function App() {
               <h3 className="footer-title">Let's Create Together</h3>
               <p className="footer-text">Currently accepting new projects and collaborations.</p>
               <a href="mailto:mehak.umar@example.com" className="footer-email-creative">
-                mehak.umar@example.com
+                moeedulhassan.pk@edex.com
                 <div className="email-underline"></div>
               </a>
             </div>
@@ -431,7 +431,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>© 2025 Mehak Umar. Design by Moeed ul Hassan Senior Developer at Google...</p>
+            <p>© 2025 Mehak Umar. Design by Moeed ul Hassan Senior Developer at edex Technologies...</p>
           </div>
         </footer>
       </div>
