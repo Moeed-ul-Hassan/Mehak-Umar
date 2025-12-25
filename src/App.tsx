@@ -431,7 +431,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>© 2024 Mehak Umar. Crafted with Creative Vision.</p>
+            <p>© 2025 Mehak Umar. Design by Moeed ul Hassan Senior Developer at Google...</p>
           </div>
         </footer>
       </div>
